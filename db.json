@@ -1,0 +1,19 @@
+{
+  "industries": [
+    {
+      "name": "Technology",
+      "ceo": "Satya Nadella",
+      "info": "Microsoft"
+    },
+    {
+      "name": "Automobile",
+      "ceo": "Mary Barra",
+      "info": "TATA Motors"
+    },
+    {
+      "name": "E-Commerce",
+      "ceo": "Andy Jassy",
+      "info": "Amazon"
+    }
+  ]
+}
